@@ -16,12 +16,12 @@
 
 正式成果按 [项目成果标准](../docs/project-standards.md) 验收，首期任务和四周协作方式见 [启动方案](../docs/launch-plan.md)。
 
-## 成员已有项目与学习资料
+## 成员已有应用工具
 
-[成员项目展示](member-projects/README.md) 收录成员已公开的个人项目与学习资料，方便阅读源码、交流和寻找协作切入点。源代码由原仓库维护；展示收录不改变首期共创项目范围，也不表示已通过社区成果验收。
+[成员项目展示](member-projects/README.md) 收录成员已有的应用工具，方便查看作品、阅读源码和寻找协作切入点。源代码由原仓库维护；展示收录不改变首期共创项目范围，也不表示已通过社区成果验收。
 
 | 项目 | 内容与状态 | 作者 |
 | --- | --- | --- |
-| [VeloRAG](member-projects/velorag.md) | 已有 RAG、知识图谱与 Agent 相关代码，入门文档和运行验证待完善 | [云烟错 · yunyancuo](https://github.com/yunyancuo) |
-| [keresearch](member-projects/keresearch.md) | 已有科研工作流 Skills 与使用说明，保留各模块来源 | [云烟错 · yunyancuo](https://github.com/yunyancuo) |
-| [深度学习基础笔记](member-projects/deep-learning-notes.md) | 已有数学、自动求导与线性回归等六份 Notebook，供入门阅读 | [云烟错 · yunyancuo](https://github.com/yunyancuo) |
+| [TodoTree](member-projects/todotree.md) | Markdown 桌面待办墙，已有运行截图与 Windows v1.6.1 安装包 | [云烟错 · yunyancuo](https://github.com/yunyancuo) |
+| [FeiyuCursor](member-projects/feiyu-cursor.md) | 大肥鱼主题 Windows 指针，已有预览、17 项指针方案与下载包 | [云烟错 · yunyancuo](https://github.com/yunyancuo) |
+| [智人排行榜 · AstrBot 插件](member-projects/zhiren-leaderboard.md) | 群聊记分、Web 排行榜与可选 AI 裁判，源码版本 1.2.3 | [云烟错 · yunyancuo](https://github.com/yunyancuo) |
