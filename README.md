@@ -8,7 +8,11 @@
 
 我们希望让大学生通过真实的开源贡献，获得可验证的技术能力、科研经验和就业作品。以 **AI 应用项目** 为学习载体，以 **科研与就业** 为两条成长方向，以 **GitHub 上可追溯的贡献与成果** 记录成长。
 
+面向大学生，以 GitHub 为核心平台，逐步连接跨高校的技术学习、科研实践、项目开发和就业能力培养。采用开放贡献、项目负责人和同伴指导的协作方式。
+
 > 当前状态：筹备中。本仓库是社区入口与共创手册；课程、应用代码和研究成果将随着贡献逐步积累。路线图中的项目均为计划，尚未完成。
+
+筹备与维护入口：**[社区启动方案](docs/launch-plan.md)** · **[招募与参与规则](docs/recruitment.md)** · **[前三个月路线图](ROADMAP.md)**。现阶段继续完善本仓库，四仓库组织架构为未来扩展计划。
 
 ## 从这里开始
 
@@ -54,7 +58,7 @@ flowchart TD
 | 科研实践 | 比较检索方法、设计评测集、分析引用准确性 | 数据说明、基线、实验配置、误差分析 |
 | 工程实践 | 构建问答接口、前端、测试与部署流程 | 可运行代码、测试记录、部署文档、演示 |
 
-该项目目前只有 [项目提案与验收标准](projects/campus-knowledge-assistant/README.md)，欢迎共同实现。候选方向还包括论文阅读助手与开源项目贡献助手，具体取舍见 [项目目录](projects/README.md)。
+该项目目前只有 [项目提案与验收标准](projects/campus-knowledge-assistant/README.md)，欢迎共同实现。后续候选包括 Paper Reproduction Lab 和 Open Agent Workshop，首期只推进一个项目，具体取舍见 [项目目录](projects/README.md)。
 
 ## 如何参与
 
@@ -77,8 +81,10 @@ flowchart TD
 
 - [成长路径](docs/learning-path.md) · [科研方向](docs/research-track.md) · [就业方向](docs/career-track.md)
 - [项目目录](projects/README.md) · [启动路线图](ROADMAP.md)
-- [贡献指南](CONTRIBUTING.md) · [社区协作规范](CODE_OF_CONDUCT.md) · [组织与维护](GOVERNANCE.md)
+- [启动方案与未来四仓库架构](docs/launch-plan.md) · [招募规则](docs/recruitment.md) · [项目成果标准](docs/project-standards.md)
+- [贡献指南](CONTRIBUTING.md) · [社区协作规范](CODE_OF_CONDUCT.md) · [治理章程](GOVERNANCE.md)
 - [项目提案模板](templates/project-proposal.md) · [实验记录模板](templates/experiment-report.md)
+- [未来组织主页草稿（含英文简介）](templates/organization-profile-README.md)
 
 ## 开源许可
 
