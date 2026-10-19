@@ -1,0 +1,42 @@
+name: 任务或项目提案
+description: 提出一个可交付、可验证的共创任务
+title: "[Task] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 目标与问题
+      description: 谁遇到了什么问题？为什么值得解决？
+    validations:
+      required: true
+  - type: dropdown
+    id: track
+    attributes:
+      label: 主要方向
+      options:
+        - Learning
+        - Building
+        - Research
+        - Career
+        - 跨方向协作
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: 范围与交付物
+      description: 写明最小范围、暂不包含的内容与预期成果。
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: 验收标准与验证方式
+      description: 如何判断任务完成？请给出可操作的检查步骤。
+    validations:
+      required: true
+  - type: textarea
+    id: resources
+    attributes:
+      label: 资源与协作需求
+      description: 数据与许可、模型、费用、维护者和评审支持；不填写个人联系方式或密钥。
