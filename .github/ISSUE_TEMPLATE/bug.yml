@@ -1,0 +1,29 @@
+name: 问题反馈
+description: 报告文档、示例、代码或评测问题
+title: "[Bug] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题描述
+      description: 包含相关文档位置或项目版本。
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 复现步骤
+      description: 提供最小示例；不要粘贴密钥或私人数据。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 环境与补充信息
+      description: 如系统、依赖版本、错误截图或日志（请先去除敏感内容）。
