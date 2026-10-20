@@ -1,6 +1,6 @@
 # 社区启动方案
 
-状态：筹备方案。当前实际运行载体是 [Alpha-Orionis/infinite-monkey-lab](https://github.com/Alpha-Orionis/infinite-monkey-lab)，尚未建立独立 GitHub Organization，应用尚未实现。
+状态：筹备方案。当前实际运行载体是 [Infinite-Monkey-Lab/infinite-monkey-lab](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab)，已迁入 [Infinite-Monkey-Lab 组织](https://github.com/Infinite-Monkey-Lab)，应用尚未实现。
 
 第一阶段目标：让不同背景的参与者从不会参与开源，到能够共同完成一个高质量 AI 应用，并让科研型与就业型成员都获得可验证成果。
 
@@ -23,7 +23,7 @@
 现阶段继续维护一个已有仓库，先验证入门、协作、评审与交付流程。未来有明确维护者和实质内容后，再按以下职责拆分：
 
 ```text
-<未来组织，名称待定>/
+Infinite-Monkey-Lab/
 ├── .github/                 组织主页与默认协作文件
 │   ├── profile/README.md
 │   ├── CONTRIBUTING.md
@@ -48,7 +48,7 @@ GitHub 的公开 `.github` 仓库可以为同一账号下未自行定义相应�
 
 | 工具 | 使用方式 | 本仓库状态 |
 | --- | --- | --- |
-| Organization | 正式成员、仓库与权限的统一归属 | 后续筹建，当前为个人账号下的公开仓库 |
+| Organization | 正式成员、仓库与权限的统一归属 | 已建立，当前公开仓库归属 Infinite-Monkey-Lab 组织 |
 | Discussions | 技术问答、经验分享与开放讨论 | 已启用，用于问答和开放交流；可交付任务仍通过 Issues 跟踪 |
 | Issues | 学习、研究与开发任务，记录范围、依赖和验收 | 已有公开启动任务，后续任务由提案拆分 |
 | Pull Requests | 交付代码、文档和实验，完成评审与反馈 | 贡献流程与 PR 模板已提供 |
@@ -87,13 +87,13 @@ Paper Reproduction Lab 和 Open Agent Workshop 暂为后续候选，见 [项目�
 ## 启动顺序与现有任务
 
 1. 按 [招募与参与规则](recruitment.md) 确认首批核心成员意向，优先补足项目负责人和评审支持。
-2. [#1 验证新成员入门流程](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/1)。
-3. [#2 确认资料授权并整理示例数据](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/2)。
-4. [#3 提交技术方案与最小版本任务拆解](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/3)。
+2. [#1 验证新成员入门流程](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/issues/1)。
+3. [#2 确认资料授权并整理示例数据](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/issues/2)。
+4. [#3 提交技术方案与最小版本任务拆解](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/issues/3)。
 5. 方案通过讨论后再拆分实现、评测与部署任务，按 [成果标准](project-standards.md) 验收。
 
 前三个月建议目标见 [路线图](../ROADMAP.md)，具体角色、决策和退出机制见 [治理章程](../GOVERNANCE.md)。
 
 ## 平台使用说明
 
-本方案使用普通仓库、模板和 Issues 组织学习任务，不依赖 GitHub Classroom。GitHub 官方公告给出的 Classroom 退出日期为 2026 年 8 月 28 日，见 [官方公告](https://github.blog/changelog/2026-05-26-github-classroom-sign-ups-are-no-longer-available/)。后续创建 Organization 时按 [官方组织创建指南](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) 办理。
+本方案使用普通仓库、模板和 Issues 组织学习任务，不依赖 GitHub Classroom。GitHub 官方公告给出的 Classroom 退出日期为 2026 年 8 月 28 日，见 [官方公告](https://github.blog/changelog/2026-05-26-github-classroom-sign-ups-are-no-longer-available/)。组织现已建立，入口为 [Infinite-Monkey-Lab](https://github.com/Infinite-Monkey-Lab)。

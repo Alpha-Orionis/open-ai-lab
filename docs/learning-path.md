@@ -38,4 +38,4 @@
 
 Learner / Contributor 描述参与方式；Project Lead / Maintainer / Mentor 描述具体职责，均不是按学习时长自动晋升的等级。正式 GitHub 成员身份或仓库权限由维护需要决定，不是参与公开贡献的前提，详见 [治理章程](../GOVERNANCE.md)。
 
-当前尚未建立独立 Organization 或阶段证书机制。贡献者可以使用公开成果建立作品集，不把社区角色或参与记录表述为学历、资格认证或就业保证。
+当前已建立 [Infinite-Monkey-Lab 组织](https://github.com/Infinite-Monkey-Lab)，尚无阶段证书机制。贡献者可以使用公开成果建立作品集，不把社区角色或参与记录表述为学历、资格认证或就业保证。
