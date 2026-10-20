@@ -1,12 +1,22 @@
-# Open AI Lab
+# 无限猴子实验室 · Infinite Monkey Lab
 
 **人人可参与的 AI 开源共创实验室**
 
-**Learn by Building, Grow by Contributing.**
+**不断尝试，共同创造。 · Keep Trying. Create Together.**
 
 面向所有人的 AI 开源共创社区。我们以真实的 AI 应用项目为学习载体，把技术学习、科研实践、工程开发和就业能力培养连接起来，让贡献留下可追溯的证据。
 
-> 本文件是未来组织主页的草稿，尚未部署为 GitHub Organization 主页。目前从 [社区启动仓库](https://github.com/Alpha-Orionis/open-ai-lab) 参与；应用尚在提案阶段。
+> 本文件是未来组织主页的草稿，尚未部署为 GitHub Organization 主页。目前从 [社区启动仓库](https://github.com/Alpha-Orionis/infinite-monkey-lab) 参与；应用尚在提案阶段。
+
+## 为什么叫「无限猴子」
+
+名字借用了「无限猴子」的思想实验：在理想化的无限随机尝试中，猴子在打字机上也可能敲出莎士比亚的《哈姆雷特》。
+
+面对 AI 展现出的能力，我们愿意把自己比作坐在打字机前的猴子：知识有限，未必一开始就知道怎样创造，但仍然可以开始尝试。借助 AI 提问、动手、观察结果，再验证、修改和重来，普通人也有机会做出原本做不出的东西。
+
+这里的「无限」寄托着持续探索与人人参与的愿望。每个人的一次小尝试、一份失败记录、一点改进，都可以成为下一位参与者的起点。我们把过程与成果开放，让尝试能够被看见、被检验、被接续。
+
+**不断尝试，共同创造。** 从一个问题、一段文档、一个实验或一个小工具开始；用反馈积累经验，用验证判断成果的价值。
 
 ## Learn → Build → Contribute
 
@@ -23,14 +33,16 @@
 
 欢迎文档、数据整理、代码、测试、研究和评审贡献。无需先成为组织正式成员，也不要求先成为 AI 专家。
 
-- [阅读入门指南](https://github.com/Alpha-Orionis/open-ai-lab/blob/main/docs/getting-started.md)
-- [了解招募与参与规则](https://github.com/Alpha-Orionis/open-ai-lab/blob/main/docs/recruitment.md)
-- [选择一个任务](https://github.com/Alpha-Orionis/open-ai-lab/issues)
-- [阅读贡献指南](https://github.com/Alpha-Orionis/open-ai-lab/blob/main/CONTRIBUTING.md)
+- [阅读入门指南](https://github.com/Alpha-Orionis/infinite-monkey-lab/blob/main/docs/getting-started.md)
+- [了解招募与参与规则](https://github.com/Alpha-Orionis/infinite-monkey-lab/blob/main/docs/recruitment.md)
+- [选择一个任务](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues)
+- [阅读贡献指南](https://github.com/Alpha-Orionis/infinite-monkey-lab/blob/main/CONTRIBUTING.md)
 
 ## About us
 
-Open AI Lab is an independent, community-led AI lab open to everyone, regardless of education, profession, location or experience. We build in public and share original code, documentation and reproducible experiments under the MIT License. This project is not affiliated with OpenAI. We connect learning, research and engineering through shared projects, reproducible experiments and reviewable contributions on GitHub.
+Infinite Monkey Lab (无限猴子实验室) is an independent, community-led AI lab open to everyone, regardless of education, profession, location or experience. We build in public and share original code, documentation and reproducible experiments under the MIT License. We connect learning, research and engineering through shared projects, reproducible experiments and reviewable contributions on GitHub.
+
+Our name draws on the infinite monkey thought experiment. We see ourselves as curious beginners with powerful AI tools: by trying, checking, learning and sharing, anyone can contribute something worth building on. Keep Trying. Create Together.
 
 Our first proposed project is a campus knowledge assistant with retrieval, document question answering and source citations. The community is in preparation; no working application or research result is claimed yet.
 
