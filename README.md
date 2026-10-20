@@ -60,6 +60,8 @@ flowchart TD
 
 该项目目前只有 [项目提案与验收标准](projects/campus-knowledge-assistant/README.md)，欢迎共同实现。后续候选包括 Paper Reproduction Lab 和 Open Agent Workshop，首期只推进一个项目，具体取舍见 [项目目录](projects/README.md)。
 
+成员已有的应用工具见 [成员项目展示](projects/member-projects/README.md)：包括桌面待办、动态鼠标指针与 AstrBot 群聊插件，可查看原仓库、预览或使用入口、作者主页和协作方向。
+
 ## 如何参与
 
 1. 阅读 [新成员入门](docs/getting-started.md) 与 [贡献指南](CONTRIBUTING.md)。
