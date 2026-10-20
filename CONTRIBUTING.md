@@ -20,8 +20,8 @@
 
 ```bash
 # 将 YOUR_USERNAME 替换为你自己的 GitHub 用户名
-git clone https://github.com/YOUR_USERNAME/open-ai-lab.git
-cd open-ai-lab
+git clone https://github.com/YOUR_USERNAME/infinite-monkey-lab.git
+cd infinite-monkey-lab
 git switch -c docs/first-contribution
 # 编辑并检查文件后，明确选择要提交的文件
 git add path/to/changed-file
@@ -58,4 +58,4 @@ git push -u origin docs/first-contribution
 
 ## 不写代码也能参与
 
-可在 [Discussions](https://github.com/Alpha-Orionis/open-ai-lab/discussions) 提问和分享学习记录，或在 [Issues](https://github.com/Alpha-Orionis/open-ai-lab/issues) 反馈文档问题、提出需求和报告复现结果。也欢迎翻译、界面草图、体验反馈与评审。没有本地开发环境时，可通过 GitHub 网页编辑文档并提交 PR。
+可在 [Discussions](https://github.com/Alpha-Orionis/infinite-monkey-lab/discussions) 提问和分享学习记录，或在 [Issues](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues) 反馈文档问题、提出需求和报告复现结果。也欢迎翻译、界面草图、体验反馈与评审。没有本地开发环境时，可通过 GitHub 网页编辑文档并提交 PR。

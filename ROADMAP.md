@@ -27,9 +27,9 @@
 
 ## 首批待办
 
-- [ ] [#1](https://github.com/Alpha-Orionis/open-ai-lab/issues/1)：用新成员视角试走入门流程，修复文档问题。
-- [ ] [#2](https://github.com/Alpha-Orionis/open-ai-lab/issues/2)：确定校园知识助手的数据来源、使用授权与最小范围。
-- [ ] [#3](https://github.com/Alpha-Orionis/open-ai-lab/issues/3)：提交首个项目的技术方案、任务拆解与验收计划。
+- [ ] [#1](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/1)：用新成员视角试走入门流程，修复文档问题。
+- [ ] [#2](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/2)：确定校园知识助手的数据来源、使用授权与最小范围。
+- [ ] [#3](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/3)：提交首个项目的技术方案、任务拆解与验收计划。
 - [ ] 明确维护者评审能力与协作节奏，再安排第一期共创。
 - [ ] 按 [招募规则](docs/recruitment.md) 确认首批核心成员意向与可提供的指导资源。
 

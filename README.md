@@ -1,8 +1,18 @@
-# Open AI Lab
+# 无限猴子实验室 · Infinite Monkey Lab
 
 **人人可参与的 AI 开源共创实验室**
 
-**Learn by Building, Grow by Contributing.**
+**不断尝试，共同创造。 · Keep Trying. Create Together.**
+
+## 为什么叫「无限猴子」
+
+名字借用了「无限猴子」的思想实验：在理想化的无限随机尝试中，猴子在打字机上也可能敲出莎士比亚的《哈姆雷特》。
+
+面对 AI 展现出的能力，我们愿意把自己比作坐在打字机前的猴子：知识有限，未必一开始就知道怎样创造，但仍然可以开始尝试。借助 AI 提问、动手、观察结果，再验证、修改和重来，普通人也有机会做出原本做不出的东西。
+
+这里的「无限」寄托着持续探索与人人参与的愿望。每个人的一次小尝试、一份失败记录、一点改进，都可以成为下一位参与者的起点。我们把过程与成果开放，让尝试能够被看见、被检验、被接续。
+
+**不断尝试，共同创造。** 从一个问题、一段文档、一个实验或一个小工具开始；用反馈积累经验，用验证判断成果的价值。
 
 从学习 AI，到参与开源项目，再到独立开展科研或开发实际应用。
 
@@ -16,7 +26,7 @@
 
 ## 开源所有，人人参与
 
-Open AI Lab 是独立的社区共创项目，与 OpenAI 公司无隶属或官方背书关系。这里不限学生身份、学历、职业、地区或经验；参与免费，无需报名、审批入会或购买课程。
+无限猴子实验室是独立的社区共创项目。这里不限学生身份、学历、职业、地区或经验；参与免费，无需报名、审批入会或购买课程。
 
 - **成果开放**：社区原创代码、教程、文档、实验脚本、配置、评测与可公开的结果默认以 MIT 许可发布；可再分发的数据、模型和素材同时标明来源与许可。
 - **过程开放**：需求、项目提案、任务进度、技术决策与复盘公开记录，失败实验也欢迎分享。
@@ -25,7 +35,7 @@ Open AI Lab 是独立的社区共创项目，与 OpenAI 公司无隶属或官方
 
 “全部开源”适用于我们有权发布的项目成果；不包含密钥、个人隐私、保密信息或无权再分发的第三方材料。具体见 [开放成果规则](docs/openness.md)。
 
-**现在就参与：** [提问与交流](https://github.com/Alpha-Orionis/open-ai-lab/discussions) · [寻找任务](https://github.com/Alpha-Orionis/open-ai-lab/issues) · [提出想法](https://github.com/Alpha-Orionis/open-ai-lab/issues/new?template=task.yml) · [提交贡献](CONTRIBUTING.md)
+**现在就参与：** [提问与交流](https://github.com/Alpha-Orionis/infinite-monkey-lab/discussions) · [寻找任务](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues) · [提出想法](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/new?template=task.yml) · [提交贡献](CONTRIBUTING.md)
 
 ## 从这里开始
 
