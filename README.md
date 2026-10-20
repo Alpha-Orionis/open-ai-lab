@@ -10,6 +10,10 @@
 
 **不断尝试，共同创造。 · Keep Trying. Create Together.**
 
+> **无限猴子开源社区 | 学生开源社区**
+>
+> 让思维的闪光变成作品，让愿意投入的人找到伙伴，给还没长成的想法一点时间，也给认真动手的人一个可以共同创造的天地。
+
 ## 为什么叫「无限猴子」
 
 名字借用了「无限猴子」的思想实验：在理想化的无限随机尝试中，猴子在打字机上也可能敲出莎士比亚的《哈姆雷特》。
@@ -114,7 +118,7 @@ flowchart TD
 - [启动方案与未来四仓库架构](docs/launch-plan.md) · [招募规则](docs/recruitment.md) · [项目成果标准](docs/project-standards.md)
 - [贡献指南](CONTRIBUTING.md) · [社区协作规范](CODE_OF_CONDUCT.md) · [治理章程](GOVERNANCE.md)
 - [项目提案模板](templates/project-proposal.md) · [实验记录模板](templates/experiment-report.md)
-- [未来组织主页草稿（含英文简介）](templates/organization-profile-README.md)
+- [正式组织主页（含英文简介）](https://github.com/Infinite-Monkey-Lab)
 
 ## 开源许可
 
