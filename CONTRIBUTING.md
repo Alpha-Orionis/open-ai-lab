@@ -58,4 +58,4 @@ git push -u origin docs/first-contribution
 
 ## 不写代码也能参与
 
-可在 [Discussions](https://github.com/Alpha-Orionis/infinite-monkey-lab/discussions) 提问和分享学习记录，或在 [Issues](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues) 反馈文档问题、提出需求和报告复现结果。也欢迎翻译、界面草图、体验反馈与评审。没有本地开发环境时，可通过 GitHub 网页编辑文档并提交 PR。
+可在 [Discussions](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/discussions) 提问和分享学习记录，或在 [Issues](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/issues) 反馈文档问题、提出需求和报告复现结果。也欢迎翻译、界面草图、体验反馈与评审。没有本地开发环境时，可通过 GitHub 网页编辑文档并提交 PR。

@@ -1,6 +1,6 @@
 # 启动路线图
 
-状态：筹备期计划。现有公开仓库、基础指南、模板与启动 Issues 已建立；正式成员、独立 Organization、应用 MVP、Demo 和研究成果尚未形成。
+状态：筹备期计划。现有公开仓库、基础指南、模板与启动 Issues 已建立；独立 Organization 已建立，仓库已迁入；本仓库仍以社区手册和提案为主，应用 MVP、Demo 和研究成果尚未形成。
 
 以下“第几周 / 第几个月”从维护者确认首期共创开始时计算，不代表固定日历日期、已完成规模或结果承诺。遇到人力或资源不足时调整范围和顺序。
 
@@ -13,7 +13,7 @@
 | 第 2 个月 | 完成首轮共建、演示与复现检查 | 1 个可复现 Demo，约 10 名活跃贡献者作为建议目标 | 有足够任务和评审能力，不为人数扩张任务 |
 | 第 3 个月 | 延伸科研与就业专题，开展成果展示 | 研究或复现报告、作品集案例、第二个项目提案 | 首个应用完成评测与复盘，有新增维护人力 |
 
-未来四仓库架构见 [启动方案](docs/launch-plan.md)。本阶段先完善现有仓库；独立组织与仓库拆分在名称、职责和实质内容明确后实施。
+未来四仓库架构见 [启动方案](docs/launch-plan.md)。仓库已迁入 Infinite-Monkey-Lab 组织。本阶段先完善现有仓库；进一步拆分在职责和实质内容明确后实施。
 
 ## 按交付推进的阶段
 
@@ -27,9 +27,9 @@
 
 ## 首批待办
 
-- [ ] [#1](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/1)：用新成员视角试走入门流程，修复文档问题。
-- [ ] [#2](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/2)：确定校园知识助手的数据来源、使用授权与最小范围。
-- [ ] [#3](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/3)：提交首个项目的技术方案、任务拆解与验收计划。
+- [ ] [#1](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/issues/1)：用新成员视角试走入门流程，修复文档问题。
+- [ ] [#2](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/issues/2)：确定校园知识助手的数据来源、使用授权与最小范围。
+- [ ] [#3](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/issues/3)：提交首个项目的技术方案、任务拆解与验收计划。
 - [ ] 明确维护者评审能力与协作节奏，再安排第一期共创。
 - [ ] 按 [招募规则](docs/recruitment.md) 确认首批核心成员意向与可提供的指导资源。
 

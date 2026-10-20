@@ -41,7 +41,7 @@
 
 “全部开源”适用于我们有权发布的项目成果；不包含密钥、个人隐私、保密信息或无权再分发的第三方材料。具体见 [开放成果规则](docs/openness.md)。
 
-**现在就参与：** [提问与交流](https://github.com/Alpha-Orionis/infinite-monkey-lab/discussions) · [寻找任务](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues) · [提出想法](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/new?template=task.yml) · [提交贡献](CONTRIBUTING.md)
+**现在就参与：** [提问与交流](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/discussions) · [寻找任务](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/issues) · [提出想法](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/issues/new?template=task.yml) · [提交贡献](CONTRIBUTING.md)
 
 ## 从这里开始
 
