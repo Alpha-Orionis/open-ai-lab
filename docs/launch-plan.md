@@ -20,7 +20,7 @@
 
 ## 现阶段与未来四仓库架构
 
-现阶段继续维护一个已有仓库，先验证入门、协作、评审与交付流程。未来有明确维护者和实质内容后，再按以下职责拆分：
+组织的公开 `.github` 仓库已承载正式主页和安全规范；当前启动仓库继续承载社区手册与项目提案，先验证入门、协作、评审与交付流程。未来有明确维护者和实质内容后，再按以下职责进一步拆分：
 
 ```text
 Infinite-Monkey-Lab/
@@ -35,7 +35,7 @@ Infinite-Monkey-Lab/
 
 | 未来仓库 | 目前内容位置 | 拆分条件 |
 | --- | --- | --- |
-| `.github` | [组织主页草稿](../templates/organization-profile-README.md)、根目录贡献与行为规范 | 正式组织名称、Owner 和公开主页内容确认 |
+| `.github` | 已建立：[正式组织主页](https://github.com/Infinite-Monkey-Lab/.github/blob/main/profile/README.md) 与组织安全规范；贡献与行为规范目前仍在启动仓库 | 主页与安全规范已部署，其他默认社区文件按维护需要补充 |
 | `handbook` | `docs/` 的入门、成长、科研、就业与招募指南 | 有持续维护手册的负责人，导航迁移方案明确 |
 | `project-hub` | `projects/`、`templates/`、[项目成果标准](project-standards.md) 与现有 Issues | 有多个需要统一跟踪的实际项目，避免重复维护任务 |
 | `campus-ai-assistant` | [校园知识助手提案](../projects/campus-knowledge-assistant/README.md) | 维护者、技术范围、数据许可和资源方案明确，首批实现可落地 |
