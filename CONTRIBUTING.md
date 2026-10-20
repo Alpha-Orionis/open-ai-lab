@@ -1,6 +1,6 @@
 # 贡献指南
 
-欢迎文档、代码、测试、评测、问题分析、设计和代码评审等贡献。
+任何人都可以参与，无需学生身份、报名或加入组织，参与免费。欢迎文档、翻译、代码、测试、评测、问题分析、设计和代码评审等贡献。小修正可以直接提交 PR，无需等待任务分配；较大改动先在 Issue 协调。
 
 ## 选择一个任务
 
@@ -20,8 +20,8 @@
 
 ```bash
 # 将 YOUR_USERNAME 替换为你自己的 GitHub 用户名
-git clone https://github.com/YOUR_USERNAME/student-ai-open-lab.git
-cd student-ai-open-lab
+git clone https://github.com/YOUR_USERNAME/open-ai-lab.git
+cd open-ai-lab
 git switch -c docs/first-contribution
 # 编辑并检查文件后，明确选择要提交的文件
 git add path/to/changed-file
@@ -51,3 +51,11 @@ git push -u origin docs/first-contribution
 ## 提问与反馈
 
 使用问题反馈模板，附复现步骤、预期和实际结果。对社区协作问题可依照 [协作规范](CODE_OF_CONDUCT.md) 处理。提交贡献即表示你有权以本仓库许可提供该内容；第三方内容需另行标注授权。
+
+## 开放成果与许可
+
+原创贡献按 [MIT 许可](LICENSE) 发布，保留已有作者署名。代码、文档、实验、评测与可公开的结果应随 PR 一起提供；第三方材料逐项注明来源和许可，授权不明时提供获取说明或原创替代，不直接上传。详见 [开放成果规则](docs/openness.md)。
+
+## 不写代码也能参与
+
+可在 [Discussions](https://github.com/Alpha-Orionis/open-ai-lab/discussions) 提问和分享学习记录，或在 [Issues](https://github.com/Alpha-Orionis/open-ai-lab/issues) 反馈文档问题、提出需求和报告复现结果。也欢迎翻译、界面草图、体验反馈与评审。没有本地开发环境时，可通过 GitHub 网页编辑文档并提交 PR。

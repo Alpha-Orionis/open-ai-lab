@@ -1,6 +1,6 @@
 # 启动路线图
 
-状态：筹备期计划。现有公开仓库、基础指南、模板与 3 个启动 Issues 已建立；正式成员、独立 Organization、应用 MVP、Demo 和研究成果尚未形成。
+状态：筹备期计划。现有公开仓库、基础指南、模板与启动 Issues 已建立；正式成员、独立 Organization、应用 MVP、Demo 和研究成果尚未形成。
 
 以下“第几周 / 第几个月”从维护者确认首期共创开始时计算，不代表固定日历日期、已完成规模或结果承诺。遇到人力或资源不足时调整范围和顺序。
 
@@ -27,9 +27,9 @@
 
 ## 首批待办
 
-- [ ] [#1](https://github.com/Alpha-Orionis/student-ai-open-lab/issues/1)：用新成员视角试走入门流程，修复文档问题。
-- [ ] [#2](https://github.com/Alpha-Orionis/student-ai-open-lab/issues/2)：确定校园知识助手的数据来源、使用授权与最小范围。
-- [ ] [#3](https://github.com/Alpha-Orionis/student-ai-open-lab/issues/3)：提交首个项目的技术方案、任务拆解与验收计划。
+- [ ] [#1](https://github.com/Alpha-Orionis/open-ai-lab/issues/1)：用新成员视角试走入门流程，修复文档问题。
+- [ ] [#2](https://github.com/Alpha-Orionis/open-ai-lab/issues/2)：确定校园知识助手的数据来源、使用授权与最小范围。
+- [ ] [#3](https://github.com/Alpha-Orionis/open-ai-lab/issues/3)：提交首个项目的技术方案、任务拆解与验收计划。
 - [ ] 明确维护者评审能力与协作节奏，再安排第一期共创。
 - [ ] 按 [招募规则](docs/recruitment.md) 确认首批核心成员意向与可提供的指导资源。
 
