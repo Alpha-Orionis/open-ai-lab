@@ -1,6 +1,6 @@
 # 社区启动方案
 
-状态：筹备方案。当前实际运行载体是 [Alpha-Orionis/open-ai-lab](https://github.com/Alpha-Orionis/open-ai-lab)，尚未建立独立 GitHub Organization，应用尚未实现。
+状态：筹备方案。当前实际运行载体是 [Alpha-Orionis/infinite-monkey-lab](https://github.com/Alpha-Orionis/infinite-monkey-lab)，尚未建立独立 GitHub Organization，应用尚未实现。
 
 第一阶段目标：让不同背景的参与者从不会参与开源，到能够共同完成一个高质量 AI 应用，并让科研型与就业型成员都获得可验证成果。
 
@@ -8,15 +8,15 @@
 
 | 项目 | 当前约定 |
 | --- | --- |
-| 对外工作名称 | Open AI Lab · 人人可参与的 AI 开源共创实验室 |
+| 对外名称 | 无限猴子实验室 · Infinite Monkey Lab |
 | 一句话定位 | 面向所有人、以 GitHub 为核心的 AI 开源共创社区 |
-| 标语 | Learn by Building, Grow by Contributing. |
+| 标语 | 不断尝试，共同创造。 · Keep Trying. Create Together. |
 | 学习载体 | 真实的 AI 应用项目与开源贡献 |
 | 成长方向 | AI Learning → AI Building → Research / Career 双轨实践 |
 | 核心证据 | Issue、PR、Review、可运行应用、实验记录与公开演示 |
 | 协作方式 | 中文为主，主要项目提供英文简介，开展跨背景、跨地区协作 |
 
-正式名称为 Open AI Lab，仓库名为 open-ai-lab。我们是独立社区项目，与 OpenAI 公司无隶属、合作或官方背书关系；不宣称高校官方身份、已有导师网络或已实现的成员规模。
+正式名称为「无限猴子实验室」，英文名 Infinite Monkey Lab，仓库名为 infinite-monkey-lab。名字借用无限猴子的思想实验，表达普通人借助 AI 不断尝试、验证与改进，也能共同创造有价值成果的信念。我们是独立社区项目；不宣称高校官方身份、已有导师网络或已实现的成员规模。
 
 ## 现阶段与未来四仓库架构
 
@@ -87,9 +87,9 @@ Paper Reproduction Lab 和 Open Agent Workshop 暂为后续候选，见 [项目�
 ## 启动顺序与现有任务
 
 1. 按 [招募与参与规则](recruitment.md) 确认首批核心成员意向，优先补足项目负责人和评审支持。
-2. [#1 验证新成员入门流程](https://github.com/Alpha-Orionis/open-ai-lab/issues/1)。
-3. [#2 确认资料授权并整理示例数据](https://github.com/Alpha-Orionis/open-ai-lab/issues/2)。
-4. [#3 提交技术方案与最小版本任务拆解](https://github.com/Alpha-Orionis/open-ai-lab/issues/3)。
+2. [#1 验证新成员入门流程](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/1)。
+3. [#2 确认资料授权并整理示例数据](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/2)。
+4. [#3 提交技术方案与最小版本任务拆解](https://github.com/Alpha-Orionis/infinite-monkey-lab/issues/3)。
 5. 方案通过讨论后再拆分实现、评测与部署任务，按 [成果标准](project-standards.md) 验收。
 
 前三个月建议目标见 [路线图](../ROADMAP.md)，具体角色、决策和退出机制见 [治理章程](../GOVERNANCE.md)。
