@@ -21,7 +21,7 @@
 
 | 入口 | 内容 |
 | --- | --- |
-| [FeiyuCursor_大肥鱼指针.zip](https://github.com/yunyancuo/FeiyuCursor/blob/e2861c2f808ec81ef0a6bfac8fa7cb706c7127bf/FeiyuCursor_%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%87%E9%92%88.zip) | 已生成的指针与安装材料 |
+| [FeiyuCursor_大肥鱼指针.zip](https://github.com/yunyancuo/FeiyuCursor/blob/bc52a8199c973b0370def05540d00d4bd75441c7/FeiyuCursor_%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%87%E9%92%88.zip) | 已生成的指针与安装材料，附许可证与素材范围说明 |
 | [build_feiyu.py](https://github.com/yunyancuo/FeiyuCursor/blob/e2861c2f808ec81ef0a6bfac8fa7cb706c7127bf/build_feiyu.py) | Python 图像处理、指针与动画生成 |
 | [安装鼠标指针.inf](https://github.com/yunyancuo/FeiyuCursor/blob/e2861c2f808ec81ef0a6bfac8fa7cb706c7127bf/%E5%AE%89%E8%A3%85%E9%BC%A0%E6%A0%87%E6%8C%87%E9%92%88.inf) | Windows 鼠标方案注册与角色映射 |
 
@@ -35,6 +35,6 @@
 
 - 2026-10-19 核对版本 [`e2861c2`](https://github.com/yunyancuo/FeiyuCursor/tree/e2861c2f808ec81ef0a6bfac8fa7cb706c7127bf)，已查看原预览图、使用说明、生成脚本与成品文件。
 - 本次未运行生成脚本或应用鼠标方案，兼容性仍需实际使用验证。
-- 核对版本未提供独立 LICENSE。角色、素材、代码的权利归属与使用范围以原仓库及相关权利人的说明为准；本页仅使用来源链接与原图地址展示。
+- 2026-10-20 许可补充：源仓库已加入独立 [MIT LICENSE](https://github.com/yunyancuo/FeiyuCursor/blob/bc52a8199c973b0370def05540d00d4bd75441c7/LICENSE)，适用于作者有权许可的原创代码与文档；角色图片、Windows 原生资源与相关衍生素材的范围见 [LICENSE-SCOPE.md](https://github.com/yunyancuo/FeiyuCursor/blob/bc52a8199c973b0370def05540d00d4bd75441c7/LICENSE-SCOPE.md)。下载包已同时附带两份文件，不将整套素材统一宣称为 MIT 授权。
 
 [返回成员项目展示](README.md)

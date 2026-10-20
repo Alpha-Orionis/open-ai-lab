@@ -17,7 +17,7 @@
 
 ## 试用与源码入口
 
-可从 [v1.6.1 发布页](https://github.com/yunyancuo/todotree/releases/tag/v1.6.1) 获取 `TodoTree-Setup-1.6.1.exe`。源码运行步骤见 [原 README](https://github.com/yunyancuo/todotree/blob/e95b65235f70ebb618c99ea77ed65dd742856ff0/README.md)：克隆仓库，在目录内执行 `npm install` 和 `npm start`。
+可从 [v1.6.1 发布页](https://github.com/yunyancuo/todotree/releases/tag/v1.6.1) 获取 `TodoTree-Setup-1.6.1.exe`。源码运行步骤见 [原 README](https://github.com/yunyancuo/todotree/blob/07c165118ec70afee0a308361383cc62cb882a47/README.md)：克隆仓库，在目录内执行 `npm install` 和 `npm start`。
 
 | 入口 | 内容 |
 | --- | --- |
@@ -36,6 +36,6 @@ Windows 版本与显示缩放兼容性、桌面层焦点切换、任务交互和
 
 - 2026-10-19 核对源码版本 [`e95b652`](https://github.com/yunyancuo/todotree/tree/e95b65235f70ebb618c99ea77ed65dd742856ff0)，`package.json` 为 1.6.1；发布页存在对应安装包，已查看原运行截图。
 - 本次完成源码入口与发布信息核对，尚未安装、启动或复测功能。
-- 源 README 与 `package.json` 声明 MIT；核对版本缺少独立 LICENSE 文件。本页使用来源链接与原图地址展示。
+- 2026-10-20 许可补充：源仓库已加入独立 [MIT LICENSE](https://github.com/yunyancuo/todotree/blob/07c165118ec70afee0a308361383cc62cb882a47/LICENSE)，并在构建配置中包含该文件。此项适用于后续构建；已有 v1.6.1 安装包未重新发布。本页使用来源链接与原图地址展示。
 
 [返回成员项目展示](README.md)
