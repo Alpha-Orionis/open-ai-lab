@@ -1,12 +1,12 @@
-# Student AI Open Lab
+# Open AI Lab
 
-**大学生 AI 开源共创实验室 · 暂定名称**
+**人人可参与的 AI 开源共创实验室**
 
 **Learn by Building, Grow by Contributing.**
 
-面向大学生的 AI 开源共创与人才成长社区。我们以真实的 AI 应用项目为学习载体，把技术学习、科研实践、工程开发和就业能力培养连接起来，让贡献留下可追溯的证据。
+面向所有人的 AI 开源共创社区。我们以真实的 AI 应用项目为学习载体，把技术学习、科研实践、工程开发和就业能力培养连接起来，让贡献留下可追溯的证据。
 
-> 本文件是未来组织主页的草稿，尚未部署为 GitHub Organization 主页。目前从 [社区启动仓库](https://github.com/Alpha-Orionis/student-ai-open-lab) 参与；应用尚在提案阶段。
+> 本文件是未来组织主页的草稿，尚未部署为 GitHub Organization 主页。目前从 [社区启动仓库](https://github.com/Alpha-Orionis/open-ai-lab) 参与；应用尚在提案阶段。
 
 ## Learn → Build → Contribute
 
@@ -19,18 +19,18 @@
 
 ## 从一个项目开始
 
-首期拟共建 **Campus AI Assistant · 校园知识助手**，支持资料检索、文档问答和引用溯源。先完成低成本、本地可运行的最小版本，再逐步扩展。
+首期拟共建 **Campus Knowledge Assistant · 校园知识助手**，支持资料检索、文档问答和引用溯源。先完成低成本、本地可运行的最小版本，再逐步扩展。
 
 欢迎文档、数据整理、代码、测试、研究和评审贡献。无需先成为组织正式成员，也不要求先成为 AI 专家。
 
-- [阅读入门指南](https://github.com/Alpha-Orionis/student-ai-open-lab/blob/main/docs/getting-started.md)
-- [了解招募与参与规则](https://github.com/Alpha-Orionis/student-ai-open-lab/blob/main/docs/recruitment.md)
-- [选择一个任务](https://github.com/Alpha-Orionis/student-ai-open-lab/issues)
-- [阅读贡献指南](https://github.com/Alpha-Orionis/student-ai-open-lab/blob/main/CONTRIBUTING.md)
+- [阅读入门指南](https://github.com/Alpha-Orionis/open-ai-lab/blob/main/docs/getting-started.md)
+- [了解招募与参与规则](https://github.com/Alpha-Orionis/open-ai-lab/blob/main/docs/recruitment.md)
+- [选择一个任务](https://github.com/Alpha-Orionis/open-ai-lab/issues)
+- [阅读贡献指南](https://github.com/Alpha-Orionis/open-ai-lab/blob/main/CONTRIBUTING.md)
 
 ## About us
 
-Student AI Open Lab is a student-focused community for learning AI through open-source collaboration. We connect learning, research and engineering through shared projects, reproducible experiments and reviewable contributions on GitHub.
+Open AI Lab is an independent, community-led AI lab open to everyone, regardless of education, profession, location or experience. We build in public and share original code, documentation and reproducible experiments under the MIT License. This project is not affiliated with OpenAI. We connect learning, research and engineering through shared projects, reproducible experiments and reviewable contributions on GitHub.
 
 Our first proposed project is a campus knowledge assistant with retrieval, document question answering and source citations. The community is in preparation; no working application or research result is claimed yet.
 
