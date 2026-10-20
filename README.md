@@ -4,6 +4,8 @@
   <img src="logo.png" alt="无限猴子实验室 Logo：猴子、打字机与无限符号" width="360">
 </p>
 
+<p align="center"><strong>每个人都是猴子</strong></p>
+
 **人人可参与的 AI 开源共创实验室**
 
 **不断尝试，共同创造。 · Keep Trying. Create Together.**
