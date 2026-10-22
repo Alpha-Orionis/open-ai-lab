@@ -32,7 +32,7 @@
 
 > 当前状态：筹备中。本仓库是社区入口与共创手册；课程、应用代码和研究成果将随着贡献逐步积累。路线图中的项目均为计划，尚未完成。
 
-筹备与维护入口：**[社区启动方案](docs/launch-plan.md)** · **[招募与参与规则](docs/recruitment.md)** · **[前三个月路线图](ROADMAP.md)**。现阶段继续完善本仓库，四仓库组织架构为未来扩展计划。
+筹备与维护入口：**[社区启动方案](docs/launch-plan.md)** · **[招募与参与规则](docs/recruitment.md)** · **[前三个月路线图](ROADMAP.md)**。现阶段继续完善本仓库，六个分类根仓库已建立，组织首页是项目总入口；本仓库继续维护社区手册与项目提案。
 
 ## 开源所有，人人参与
 
@@ -115,7 +115,7 @@ flowchart TD
 
 - [成长路径](docs/learning-path.md) · [科研方向](docs/research-track.md) · [就业方向](docs/career-track.md)
 - [项目目录](projects/README.md) · [启动路线图](ROADMAP.md)
-- [启动方案与未来四仓库架构](docs/launch-plan.md) · [招募规则](docs/recruitment.md) · [项目成果标准](docs/project-standards.md)
+- [社区启动方案](docs/launch-plan.md) · [招募规则](docs/recruitment.md) · [项目成果标准](docs/project-standards.md)
 - [贡献指南](CONTRIBUTING.md) · [社区协作规范](CODE_OF_CONDUCT.md) · [治理章程](GOVERNANCE.md)
 - [项目提案模板](templates/project-proposal.md) · [实验记录模板](templates/experiment-report.md)
 - [正式组织主页（含英文简介）](https://github.com/Infinite-Monkey-Lab)
